@@ -1,0 +1,6 @@
+framework module Pods_FullProfileTests {
+  umbrella header "Pods-FullProfileTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

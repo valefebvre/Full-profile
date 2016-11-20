@@ -1,0 +1,6 @@
+framework module Pods_FullProfile {
+  umbrella header "Pods-FullProfile-umbrella.h"
+
+  export *
+  module * { export * }
+}
